@@ -20,7 +20,8 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 /**
- *
+ *Main program class. Program is to get a xml file from external sources and 
+ * printing currency ratios between two different dates
  * @author Karolis
  */
 public class Main {
